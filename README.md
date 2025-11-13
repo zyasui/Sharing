@@ -1,4 +1,5 @@
 Copyright (C) 2010 YASUI Tsukasa
+
 The documents within this project are licensed under the Apache License Version 2.0.
 
 Apache License
